@@ -10,4 +10,10 @@ public class TestApp
             System.out.println("Running Test 1");
         }
 
+        private void doSomething()
+        {
+            System.out.println("Do Something");
+        }
+
+
     }
